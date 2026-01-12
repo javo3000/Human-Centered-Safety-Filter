@@ -1,0 +1,12 @@
+# JaxSafeFilter Dependencies
+# Human-Centered Safety Filter implementation in JAX
+
+# Core JAX framework
+jax>=0.4.20
+jaxlib>=0.4.20
+
+# Optimization library (for training)
+optax>=0.1.7
+
+# Numerical computing
+numpy>=1.24.0
