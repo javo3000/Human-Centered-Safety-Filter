@@ -122,9 +122,15 @@ Alpha:           0.234             # 23.4% intervention
 
 ## References
 
-- "Safety with Agency: Human-Centered Safety Filter with Application for AI-Assisted Motorsport"
+- @inproceedings{oh2025safety,
+    title={Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports},
+    author={Oh, Donggeon David and Lidard, Justin and Hu, Haimin and Sinhmar, Himani and Lazarski, Elle and Gopinath, Deepak and Sumner, Emily S and DeCastro, Jonathan A and Rosman, Guy and Leonard, Naomi Ehrich and Fisac, Jaime Fern{\'a}ndez},
+    booktitle={Proceedings of Robotics: Science and Systems},
+    year={2025}
+}
 - JAX Documentation: https://jax.readthedocs.io/
 
 ## License
 
 MIT
+
